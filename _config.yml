@@ -33,7 +33,7 @@ color:
     - '#BC6538'
     - '#D7B490'
     - '#FCFCFA'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
