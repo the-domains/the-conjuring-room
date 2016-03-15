@@ -1,8 +1,7 @@
 name: THE CONJURING ROOM
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.75441
+typography_spectrum: 0.7117651032749563
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#1F150F'
     - '#9A776D'
     - '#BC6538'
     - '#D7B490'
     - '#FCFCFA'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.7117651032749563
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 1
+purpose: []
