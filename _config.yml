@@ -1,28 +1,40 @@
-name: THE CONJURING ROOM
-favicon: null
-layout_spectrum: 0.9894548568408936
-typography_spectrum: 0.7117651032749563
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3315894724801183
-  lightness: 0.740896443836391
-  saturation: 0.34699490247294307
-  rhythmicContrast: 0.3409145676996559
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3469949024729431
+  brandStrength: 1
+  lightness: 0.740896443836391
+  brandColors:
+    - '#1F150F'
+    - '#9A776D'
+    - '#BC6538'
+    - '#D7B490'
+    - '#FCFCFA'
+  rhythmicContrast: 0.3409145676996559
+typography_spectrum: 0.7117651032749563
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: THE CONJURING ROOM
