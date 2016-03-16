@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: WELOME TO THE CONJURING ROOM.
-datePublished: '2016-03-15T22:18:41.361Z'
-dateModified: '2016-03-15T22:18:25.300Z'
+datePublished: '2016-03-16T02:01:59.200Z'
+dateModified: '2016-03-15T22:24:19.559Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-15-welome-to-the-conjuring-room.md
@@ -25,6 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/388276a8-1a60-4309-a16c-9bfadf4f01fa.jpg)
 
 WELOME TO THE CONJURING ROOM.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c30eb45b-f9b7-4b38-bc1f-a59b5186f4f2.jpg)
 
 A CONSORTIUM OF MAGIC AND ITS ALLIED ARTS.
 
