@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: WELOME TO THE CONJURING ROOM.
-datePublished: '2016-03-16T02:11:57.408Z'
-dateModified: '2016-03-16T02:11:22.748Z'
+description: WELCOME TO THE CONJURING ROOM.
+datePublished: '2016-03-16T02:21:17.847Z'
+dateModified: '2016-03-16T02:17:51.117Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-15-welome-to-the-conjuring-room.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c30eb45b-f9b7-4b38-bc1f-a59b5186f4f2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/388276a8-1a60-4309-a16c-9bfadf4f01fa.jpg)
 
 WELCOME TO THE CONJURING ROOM.
 
@@ -35,5 +34,4 @@ TO ELEVATE THE ART AND KNOWLEDGE OF ALL THINGS PERTAINING TO MAGIC
 
 TO EXCHANGE IDEAS AND CREATE NEW WAYS TO ENHANCE THE ART
 
-TO TEACH, LEARN, DISCOVER AND JOURNEY INTO UNSUSPECTING TERRITORY,  AND TO DEVISE WAYS IN WHICH TO INSPIRE
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19d80165-27ea-432d-a6c4-254076c1559a.png)
+TO TEACH, LEARN AND DISCOVER,  AND TO DEVISE WAYS IN WHICH TO INSPIRE
